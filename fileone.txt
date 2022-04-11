@@ -1,0 +1,3 @@
+Hi this is a file one text file
+welcome to text file
+shows as a text editor
